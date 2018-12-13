@@ -33,7 +33,7 @@
   },
   "scripts": {
     "postinstall": "alfy-init",
-    "preuninstall": "alfy-cleanup",
+    "preuninstall": "alfy-cleanup"
   },
   "version": "1.0.0"
 }

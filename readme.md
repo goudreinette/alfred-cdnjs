@@ -12,3 +12,4 @@ In Alfred, type `cdnjs`, <kbd>Enter</kbd>, and your query, to search for librari
 Select a package and press <kbd>Enter</kbd> to copy a html script snippet with the library.<br>
 
 
+![](./screenshot.png)
