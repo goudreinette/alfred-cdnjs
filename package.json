@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "Rein van der Woerd",
+    "email": "reinvanderwoerd@me.com",
+    "url": "reinvanderwoerd.nl"
+  },
+
+  "dependencies": {
+    "alfy": "^0.8.0",
+    "date-format": "^2.0.0"
+  },
+  "description": "Alfred 3 workflow to search for libraries on cdn.js",
+  "files": [
+    "index.js",
+    "source",
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "js",
+    "cdn",
+    "cdnjs",
+    "alfred",
+    "alfred-workflow",
+    "workflow",
+    "alfy"
+  ],
+  "license": "MIT",
+  "name": "alfred-cdnjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reinvdwoerd/alfred-cdnjs.git"
+  },
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup",
+  },
+  "version": "1.0.0"
+}
