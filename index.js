@@ -16,10 +16,10 @@ const cmdSubtitle = require('./source/cmd-subtitle');
 			subtitle: result.description,
 			arg: result.latest,
 			mods: {
-				alt: {
-					// arg: pkg.links.npm,
-					subtitle: 'Open Github'
-				},
+				// alt: {
+				// 	// arg: pkg.links.npm,
+				// 	subtitle: 'Open Github'
+				// },
 				cmd: {
 					subtitle: 'Copy script tag'
 				}
