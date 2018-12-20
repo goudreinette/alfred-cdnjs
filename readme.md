@@ -1,10 +1,7 @@
 # alfred-cdnjs
 
 ## Install
-```
-$ npm install --global alfred-cdnjs
-```
-*Requires [Node.js](https://nodejs.org) 8+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
+See the [releases](https://github.com/reinvdwoerd/alfred-cdnjs/releases) section
 
 ## Usage
 In Alfred, type `cdnjs`, <kbd>Enter</kbd>, and your query, to search for libraries.
